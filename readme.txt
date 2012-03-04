@@ -1,1 +1,1 @@
-测试
+用TortoiseGit连接到GitHub必须先用Puttygen打开msysgit生成好的密钥，重新保存为ppk的格式才可以使用。
